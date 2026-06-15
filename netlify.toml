@@ -1,0 +1,4 @@
+[build]
+  base = "dreap"
+  publish = ".next"
+  command = "npm run build"
